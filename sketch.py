@@ -1,0 +1,12 @@
+from sketchpy import library as gfg
+img = gfg.flag()
+# img = gfg.apj()
+# img = gfg.bts()
+# img = gfg.date()
+# img = gfg.gojo()
+# img = gfg.ironman_ascii()
+# img = gfg.Nominatim()
+# img = gfg.rdj()
+# img = gfg.tom_holland()
+# img = gfg.vijay()
+img.draw()
